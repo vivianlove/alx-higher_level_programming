@@ -10,4 +10,5 @@ def lazy_matrix_mul(m_a, m_b):
         m_b (list of lists of ints/floats): The second matrix.
     """
 
-    return (np.matmul(m_a, m_b)
+
+    return (np.matmul(m_a, m_b))
